@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/profil_menu"
+        android:icon="@drawable/satu"
+        android:title="@string/profil" />
+
+    <item
+        android:id="@+id/kontak_menu"
+        android:icon="@drawable/dua"
+        android:title="@string/kontak" />
+
+    <item
+        android:id="@+id/teman_menu"
+        android:icon="@drawable/tiga"
+        android:title="@string/teman" />
+</menu>

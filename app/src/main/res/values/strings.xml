@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS AKB</string>
+
+    // TODO: 22/02/18
+    <string name="profil">Profil</string>
+    <string name="kontak">Kontak</string>
+    <string name="teman">Daftar Teman</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_intro">IntroActivity</string>
+</resources>
